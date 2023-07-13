@@ -1,0 +1,16 @@
+﻿id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+Drinks.BAS.MR.txt:jpjP0Z,vsSuNS,BAS,Drinks,Inverse Variance Weighted,123,0.003812737,0.020687188,0.853774771
+Drinks.EOS.MR.txt:jpjP0Z,bwnTe1,EOS,Drinks,Inverse Variance Weighted,123,0.139060905,0.040980956,0.000690546
+Drinks.HCT.MR.txt:jpjP0Z,ZDBydB,HCT,Drinks,Inverse Variance Weighted,123,-0.185654341,0.053098896,0.000471602
+Drinks.HGB.MR.txt:jpjP0Z,xjDtfy,HGB,Drinks,Inverse Variance Weighted,123,-0.181985934,0.051539977,0.000414044
+Drinks.LYM.MR.txt:jpjP0Z,hOWg2f,LYM,Drinks,Inverse Variance Weighted,123,-0.06390264,0.036680478,0.081483412
+Drinks.MCHC.MR.txt:jpjP0Z,VypJAC,MCHC,Drinks,Inverse Variance Weighted,123,-0.028657106,0.029904346,0.337915358
+Drinks.MCH.MR.txt:jpjP0Z,UiX6el,MCH,Drinks,Inverse Variance Weighted,123,0.115685182,0.040062355,0.003881585
+Drinks.MCV.MR.txt:jpjP0Z,T4c4N6,MCV,Drinks,Inverse Variance Weighted,123,0.143519804,0.040537026,0.000399427
+Drinks.MON.MR.txt:jpjP0Z,pSAnWO,MON,Drinks,Inverse Variance Weighted,123,-0.005025036,0.036662719,0.890982432
+Drinks.MPV.MR.txt:jpjP0Z,cySDxs,MPV,Drinks,Inverse Variance Weighted,123,0.082576255,0.056798842,0.14599152
+Drinks.NEU.MR.txt:jpjP0Z,awoZAN,NEU,Drinks,Inverse Variance Weighted,123,-0.128815697,0.042285081,0.002316282
+Drinks.PLT.MR.txt:jpjP0Z,GoM09N,PLT,Drinks,Inverse Variance Weighted,123,-0.055359667,0.046928643,0.238136959
+Drinks.RBC.MR.txt:jpjP0Z,DTwbij,RBC,Drinks,Inverse Variance Weighted,123,-0.243666813,0.060233286,5.22E-05
+Drinks.RDW.MR.txt:jpjP0Z,MivNcl,RDW,Drinks,Inverse Variance Weighted,123,-0.117181147,0.059705505,0.049686587
+Drinks.WBC.MR.txt:jpjP0Z,ixcSsT,WBC,Drinks,Inverse Variance Weighted,123,-0.110200291,0.037580995,0.003364172

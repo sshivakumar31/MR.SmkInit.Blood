@@ -1,0 +1,16 @@
+﻿id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+DrnkWk.BAS.MR.txt:jyfz0r,ulz64p,BAS,DrnkWk,Inverse Variance Weighted,122,-0.001176339,0.018751943,0.949980234
+DrnkWk.EOS.MR.txt:jyfz0r,wmDefW,EOS,DrnkWk,Inverse Variance Weighted,122,0.108602205,0.036592373,0.002998498
+DrnkWk.HCT.MR.txt:jyfz0r,MY1YsJ,HCT,DrnkWk,Inverse Variance Weighted,121,-0.131194402,0.046241299,0.004551544
+DrnkWk.HGB.MR.txt:jyfz0r,q6yUCo,HGB,DrnkWk,Inverse Variance Weighted,121,-0.125134423,0.044652627,0.005072428
+DrnkWk.LYM.MR.txt:jyfz0r,fAhiso,LYM,DrnkWk,Inverse Variance Weighted,122,-0.067814472,0.033512551,0.043016014
+DrnkWk.MCHC.MR.txt:jyfz0r,7axzuT,MCHC,DrnkWk,Inverse Variance Weighted,121,-0.023108894,0.026534908,0.383816113
+DrnkWk.MCH.MR.txt:jyfz0r,rX65rb,MCH,DrnkWk,Inverse Variance Weighted,121,0.103133499,0.035226819,0.003414812
+DrnkWk.MCV.MR.txt:jyfz0r,ehOuyA,MCV,DrnkWk,Inverse Variance Weighted,122,0.129305753,0.035682343,0.000290304
+DrnkWk.MON.MR.txt:jyfz0r,1F0cV5,MON,DrnkWk,Inverse Variance Weighted,122,-0.002285005,0.032908516,0.944643306
+DrnkWk.MPV.MR.txt:jyfz0r,GWGPWS,MPV,DrnkWk,Inverse Variance Weighted,123,0.078021669,0.055903484,0.162820067
+DrnkWk.NEU.MR.txt:jyfz0r,XJZIYL,NEU,DrnkWk,Inverse Variance Weighted,122,-0.105185277,0.038253683,0.005965401
+DrnkWk.PLT.MR.txt:jyfz0r,BcO9YD,PLT,DrnkWk,Inverse Variance Weighted,121,-0.039274113,0.040779168,0.335501077
+DrnkWk.RBC.MR.txt:jyfz0r,XDxY1X,RBC,DrnkWk,Inverse Variance Weighted,121,-0.180906434,0.051791165,0.00047763
+DrnkWk.RDW.MR.txt:jyfz0r,fvo9jj,RDW,DrnkWk,Inverse Variance Weighted,123,-0.114183415,0.058295334,0.050147238
+DrnkWk.WBC.MR.txt:jyfz0r,XzwFzO,WBC,DrnkWk,Inverse Variance Weighted,121,-0.084199067,0.032782925,0.010217456
